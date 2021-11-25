@@ -381,3 +381,27 @@ body {
     border-left: 1px solid #eeeeee;
     border-right: 1px solid #eeeeee;
   }
+  /*--доработка и замечания домашки --*/
+ .team-description {
+  text-align: center;
+  background-color: var(--background-color);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 0 0 4px 4px;
+}
+
+ .visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+}
+
+ .projects-description {
+  border-left: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+  padding: 20px 24px;
+ }
